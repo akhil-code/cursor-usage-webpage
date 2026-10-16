@@ -1,0 +1,13 @@
+User-Agent: *
+Allow: /
+Allow: /privacy
+Allow: /support
+Disallow: /notes/
+Disallow: /api/
+Disallow: /profile/
+Disallow: /tinyurl/
+Disallow: /tools/
+Disallow: /words/
+
+Host: cursorusage.url2.at
+Sitemap: https://cursorusage.url2.at/sitemap.xml
